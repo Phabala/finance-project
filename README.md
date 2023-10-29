@@ -173,6 +173,6 @@
 
 ## 노션 활용
 
-[<img src="./readme_assets/images/notion.JPG" alt="notion">](https://immediate-shamrock-b52.notion.site/2d5ca3b296f84449bc7d49d08ed188c7?pvs=4)
+[<img src="./readme_assets/images/notion.jpg" alt="notion">](https://immediate-shamrock-b52.notion.site/2d5ca3b296f84449bc7d49d08ed188c7?pvs=4)
 
 ※ 이미지 클릭시 Notion 이동 
