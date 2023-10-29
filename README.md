@@ -127,7 +127,7 @@
         </td>
         <td style="min-width: 150px;">
             <a href="https://github.com/phabala">
-              <img src="./readme_assets/profile/kkh.png" width="200">
+              <img src="./readme_assets/profile/kkh.JPG" width="200">
               <br />
               <b>phabala</b>
             </a> 
